@@ -35,7 +35,7 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toticlash9-crypto&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=totti-code&theme=radical" />
 </p>
 
 ---
