@@ -1,60 +1,39 @@
-# 👨‍💻 Totti Araújo
+<h1 align="center">👋 Olá, eu sou o Totti</h1>
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-📍 Fortaleza - CE  
-💡 Foco em Desenvolvimento, Banco de Dados e Infraestrutura  
+<h3 align="center">💻 Desenvolvedor em formação | 🚀 Apaixonado por tecnologia</h3>
 
----
-
-## 🚀 Sobre mim
-
-Sou estudante de ADS com experiência prática na área de CPD, atuando com infraestrutura de rede, servidores locais, banco de dados e sistemas ERP.
-
-Tenho interesse em desenvolvimento de software, computação em nuvem e arquitetura de sistemas.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500">
+</p>
 
 ---
 
-## 🛠️ Tecnologias e Conhecimentos
+### 👨‍💻 Sobre mim
 
-- 💻 Lógica de Programação  
-- 🐍 Python  
-- 🗄️ SQL Server / Banco de Dados  
-- ☁️ Conceitos de Computação em Nuvem (AWS)  
-- 🌐 Redes, VLANs e Infraestrutura  
-- ⚙️ Git e GitHub  
+- 🎓 Estudando Desenvolvimento de Sistemas  
+- 🔐 Interessado em tecnologia e segurança  
+- 💡 Sempre buscando evoluir  
+- 🚀 Focado em crescer na área tech  
 
 ---
 
-## 📚 Projetos Acadêmicos
+### 🛠️ Tecnologias que estou aprendendo
 
-### 📌 Sistema de Cadastro em Python
-Aplicação simples para praticar lógica de programação e manipulação de dados.
-
-### 📌 Modelagem de Banco de Dados
-Projeto de modelagem relacional com normalização e consultas SQL.
-
-### 📌 Estrutura de Rede Corporativa
-Simulação de ambiente com múltiplas filiais, servidor central e VLANs separadas.
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ---
 
-## 📊 Estatísticas GitHub
+### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toticlash9-crypto&show_icons=true&theme=dark)
-
----
-
-## 📫 Contato
-
-📧 Email: toti.clash9@gmail.cm
-💼 LinkedIn: https://github-readme-stats.vercel.app/api?username=toticlash9-crypto&show_icons=true&theme=dark 
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=toticlash9-crypto&show_icons=true&theme=tokyonight">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toticlash9-crypto&layout=compact&theme=tokyonight">
+</p>
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
-
-## 🐍 Minhas Contribuições
-
-![Snake animation](https://raw.githubusercontent.com/toticlash9-crypto/toticlash9-crypto/output/snake.svg)
-
-
+⭐ Sempre construindo, sempre evoluindo.
