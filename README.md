@@ -52,4 +52,7 @@ Simulação de ambiente com múltiplas filiais, servidor central e VLANs separad
 ---
 
 ⭐ Obrigado por visitar meu perfil!
+
 https://raw.githubusercontent.com/toticlash9-crypto/toticlash9-crypto/output/snake.svg
+
+
