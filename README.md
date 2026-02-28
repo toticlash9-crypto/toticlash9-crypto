@@ -1,46 +1,65 @@
-<h1 align="center">👋 Olá, eu sou o Totti</h1>
+👋 Olá, eu sou o Totti
+<h3 align="center">💻 Desenvolvedor em formação | 🚀 Construindo soluções reais</h3> <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500"> </p>
+🚀 Sobre mim
 
-<h3 align="center">💻 Desenvolvedor em formação | 🚀 Apaixonado por tecnologia</h3>
+Sou estudante de Desenvolvimento de Sistemas, focado em evoluir constantemente na área de tecnologia.
 
+Atualmente estou desenvolvendo projetos práticos com integração de banco de dados em nuvem e aplicações web completas.
+
+🎓 Formação em Desenvolvimento de Sistemas
+
+🔐 Interesse em tecnologia e segurança
+
+🗄️ Experiência com banco de dados (Supabase / PostgreSQL)
+
+💡 Foco em projetos reais e aprendizado contínuo
+
+🚀 Construindo portfólio sólido
+
+🧠 Atualmente aprendendo
+
+JavaScript avançado
+
+Integração com APIs
+
+Banco de dados na nuvem
+
+Estruturação de sistemas web
+
+Boas práticas de código
+
+🛠️ Tecnologias
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500">
+
+
+
+
+
+
+
+
+
+
+
+
 </p>
+📂 Projetos em destaque
+🏢 PONTO-EMPRESA
 
----
+Sistema completo de controle de ponto empresarial com:
 
-### 👨‍💻 Sobre mim
+Registro de entrada e saída
 
-- 🎓 Estudando Desenvolvimento de Sistemas  
-- 🔐 Interessado em tecnologia e segurança  
-- 💡 Sempre buscando evoluir  
-- 🚀 Focado em crescer na área tech  
+Painel administrativo
 
----
-<p align="center">
- <img src="https://s2-g1.glbimg.com/BpGJr5Ulk2KP6WK8xgrx0EARNW4=/0x0:800x400/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/W/L/qKl4yETiuCZaQ0rxejow/giphy-1-.gif"
-</p>
-  
-### 🛠️ Tecnologias que estou aprendendo
+Integração com Supabase
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+Banco de dados PostgreSQL
 
----
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="450">
-</p>
+Deploy no GitHub Pages
 
----
+🔗 https://totti-code.github.io/PONTO-EMPRESA/
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=totti-code&theme=radical" />
-</p>
-
----
-
-⭐ Sempre construindo, sempre evoluindo.
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="450"> </p>
+📊 Estatísticas
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=totti-code&theme=radical" /> </p>
